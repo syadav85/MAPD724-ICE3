@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B49C37DB-0F77-4519-823A-D6F40283105A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E4005C7-3561-42B4-8819-44127636CAD7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MAPD724-ICE3/GameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "GameViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3E4005C7-3561-42B4-8819-44127636CAD7 - 7b2c96c972f785e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAPD724_ICE3.GameViewController.ScoreLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MAPD724-ICE3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satenderyadav/Desktop/iOS%202/ICE%202/MAPD724-ICE3/MAPD724-ICE3/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "3E4005C7-3561-42B4-8819-44127636CAD7 - 8d651bb3b4e06194"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAPD724_ICE3.GameViewController.ScoreLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MAPD724-ICE3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satenderyadav/Desktop/iOS%202/ICE%202/MAPD724-ICE3/MAPD724-ICE3/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "3E4005C7-3561-42B4-8819-44127636CAD7 - d32ee474da37fce7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAPD724_ICE3.GameViewController.ScoreLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MAPD724-ICE3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satenderyadav/Desktop/iOS%202/ICE%202/MAPD724-ICE3/MAPD724-ICE3/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3E4005C7-3561-42B4-8819-44127636CAD7 - 836733c326b6ad9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAPD724_ICE3.GameViewController.ScoreLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MAPD724-ICE3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satenderyadav/Desktop/iOS%202/ICE%202/MAPD724-ICE3/MAPD724-ICE3/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "3E4005C7-3561-42B4-8819-44127636CAD7 - 7f11a48ef67b4415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAPD724_ICE3.GameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MAPD724_ICE3.GameViewController"
+                  moduleName = "MAPD724-ICE3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satenderyadav/Desktop/iOS%202/ICE%202/MAPD724-ICE3/MAPD724-ICE3/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "3E4005C7-3561-42B4-8819-44127636CAD7 - 9c5c8ea0723d4e12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MAPD724_ICE3.GameViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MAPD724_ICE3.GameViewController&gt;"
+                  moduleName = "MAPD724-ICE3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/satenderyadav/Desktop/iOS%202/ICE%202/MAPD724-ICE3/MAPD724-ICE3/GameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
